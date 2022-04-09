@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JeetGadhiya
-- 👀 I’m interested in Machine learning
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on making any innovative application
+- 👀 I’m interested in Full stack Web Development
+- 🌱 I’m currently learning reactjs
+- 💞️ I’m looking to collaborate on making any innovative and interactive websites
 - 📫 How to reach me by my mail jeetgadhiya16@gmail.com
 
 <!---
